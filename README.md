@@ -159,3 +159,6 @@
 **NEXUS AI is under development.**
 
 *Learning C. Building my own AI assistant.*
+
+
+[![Day 3-4 03-04.11.26](https://img.shields.io/badge/-Day_3--4_03--04.11.26-2CA5E0?style=for-the-badge)](https://github.com/paranoicclnx-maker/NexusAI/tree/2c97957bb5173caa63a6764af0cbf9e1e6eecc2f/) 
