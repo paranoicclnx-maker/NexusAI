@@ -1,7 +1,8 @@
-#include "core/startup.h"
-#include "../modules/system/system.h"
-#include "core/shutdown.h"
-#include "core/menu.h"	
+#include "core\startup.h"
+#include "modules\system\system.h"
+#include "core\shutdown.h"
+#include "core\menu.h"
+#include "core\errors.h"	
 
 int main(void)
 {

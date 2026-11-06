@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "system.h"
-void nexus_system_info(void)
+    void nexus_system_info(void)
 {
     printf("========================\n");
     printf("      NEXUS SYSTEM      \n");
