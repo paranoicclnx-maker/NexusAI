@@ -161,7 +161,7 @@
 *Learning C. Building my own AI assistant.*
 
 
-[![Day 3-4 03-04.11.26](https://img.shields.io/badge/-Day_3--4_03--04.11.26-2CA5E0?style=for-the-badge)](https://github.com/paranoicclnx-maker/NexusAI/tree/2c97957bb5173caa63a6764af0cbf9e1e6eecc2f/) 
+
 
 <img width="1254" height="1254" alt="Прогресс NEXUS AI_ день 6" src="https://github.com/user-attachments/assets/9b36da46-8917-493a-9693-6ed930008b5f" />
 
