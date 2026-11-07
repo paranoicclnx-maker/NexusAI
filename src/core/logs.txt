@@ -1,0 +1,4 @@
+NEXUS AI startup started
+[2026-11-08 01:03:51] [INFO] [STARTUP] Starting Nexus AI  
+[2026-11-08 01:03:51] [INFO] [STARTUP] Loading core modules  
+[2026-11-08 01:03:56] [INFO] [AI] Ollama found in PATH 

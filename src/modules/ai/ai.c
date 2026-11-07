@@ -10,6 +10,7 @@ exit()	Завершает программу*/
 #include <stdio.h>
 #include <stdlib.h>
 #include "ai.h"
+#include "../../core/logs.h"
 int nexus_check_ai(void)
 {
     int status = system("where.exe ollama");
@@ -19,8 +20,11 @@ int nexus_check_ai(void)
 
     if( status == 0)
     {
+    nexus_log_write(LOG_INFO, "AI", "Ollama found in PATH \n");
     return AI_SUCCESS;
     }
+    nexus_log_write(LOG_ERROR, "AI", "Ollama was not found in PATH \n");
     return AI_ERROR;
+    
 }
 
